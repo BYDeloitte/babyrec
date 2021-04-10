@@ -1,16 +1,35 @@
 from kivymd.app import MDApp
-from kivymd.uix.button import MDRectangleFlatButton
-from kivymd.uix.screen import MDScreen
+from kivymd.uix.dialog import MDDialog
+from kivymd.uix.stacklayout import MDStackLayout
+from kivymd.uix.boxlayout import MDBoxLayout
+from kivy.lang import Builder
 
+list_build='''
+MDScreen:
+    ScrollView:
+        MDList:
+            OneLineRightIconListItem:
+                text: "Milk"
+                IconRightWidget:
+                    icon: "plus-circle"
+                    on_release: app.add_milk()
 
-class Main(MDApp):
+<Content>
+    MDTextField:
+        hint_text: 'Amount'
+
+'''
+class Content(MDBoxLayout):
+    pass
+
+class BabyRecorder(MDApp):
     def build(self):
-        screen = MDScreen()
-        btn = MDRectangleFlatButton(text="Hello World",
-                                    pos_hint={'center_x': 0.5, 'center_y': 0.5}
-                                    )
-        screen.add_widget(btn) 
+        screen = Builder.load_string(list_build)
         return screen
+    
+    def add_milk(self):
+        self.dialog = MDDialog(title='Feed of milk',type='custom',content_cls=Content())
+        self.dialog.open()
 
 
-Main().run()
+BabyRecorder().run()

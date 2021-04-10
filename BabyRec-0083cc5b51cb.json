@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "babyrec",
+  "private_key_id": "0083cc5b51cb51c273596e555f7a521ce7f38162",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCwKbEa5Bcc9NQx\nb1on8NlIRO5hJyb9UoQPuVWo6ESMwtmBvJZgjXj/P4+S6HxbmBSMkXqqcM4OTWK9\nk0PWmk4cExkJ6FHZioUqp9gFe/EE8KQPx/Y4R7LQ+ukGRT3CReMCegWTnNlMTF/M\nfCIYR3YMpTYAbCHOv/aId9DQhlltfZvllzhXa5zaU/JWLTD69hchn9vcVKSMTINK\niHtTXxjpgFWrQqUvIChcfoGjXcXj9e7leVCVCvTg78ivGLpoxsrlvVkqtYcI2u2x\nTjz5IRr1ulr2kimS2/6Hvedlh56ZPzr1CcxU28bX4BZ73cKcpTdf2beRz44wn2Ar\nyZ9KY0M9AgMBAAECggEAMkhsO4tAh6zgho3Ms5rdQnIegs+souEzPdO+fhxyOKWD\ndTMxzzSChYUMg7flizVxJCCAXXcecdmn5gnLcs2PnxbabkgIWOpfkWngUMxsYucX\nRUPj5XOduGXuLrKD6tiM8A+JWPWL1unz7EfAaaK4MOrVa7Bxw/RqN9DPYz3997DI\npC2ptQiY5xn66Q2XtjpgrMPIDG/ip0c3PblBmw5sBMn/k8BGSygR3Fb1mMRz5Wz4\nAhdMQYaxyYENMJGEY5FJ845me8yXbkKTLv8M+qf3in0YKnnnm2I63rPSNP797Dxg\neSN9j99/iMs4QjbWBYxq8bZL3PZxnR0gDIdzixmEBwKBgQD4E4C5dHKqOdqVwI4P\nj0/hkfvPZAi2qcLZKWliZTQNiiXNZi/q2OI7TwmjzhunW25PT8y0Expc9VzhS58o\n1YBT7f4EJf8Sg8EFECm3faNcUrMnRcIi9ayg5cmsbLxcmjy5exTPcrqnDmBQgcES\ngi2ThsUmMmedYCOdRCcpZLb5OwKBgQC1yij42is1BG532f4DL46MjiLUcnC2qBHt\nOmla393qDaIIJ0vjzbptAKLUKVM3b1ugci2FJIhwVxmI+TpYGoeCeOHBolmjyIxN\nlxZ3mJYfOEvbnM3VyBxKyEiIHf6AsPPr5DHc+Lj+4lkF+Cdfau+7y4rhl1GuTBj3\nbRItftst5wKBgQC4wYWoGTLg1m+WAi+LJRfADoI0pfLbX7lPFMl4z5ih0NZwj/91\n74sl0qqCRZlQ3gZcqTjykBudSdufqzthJQkK+P+qxUWf22Jgy/XVw4tr0ee9gvWg\nJcoolprJgL4UVYaOOT15dp/OlSVkMA7EIxGggsnHtdh3W8eKc9yatniTSwKBgQCs\nSgzKzPpmJO0Naezz1/6h95PLBSsN8fwLeXCgT8tiJ8mJMLUcEb69z/yCVygnQcL1\nLUE3DojA78ujpZFGLt5/KVHM0rFiKI/QeYExl8uviwtZ+CKcmis2NNuJJeQu04ZZ\n6svXQWMTLjJxFd86736F3UKiy2b+aeC/nv+7Xp8bwQKBgQC5t7na/fmVtlScKJ1S\nJSBaVDRGqJHtlmVfcBrPzUsL5wFZ1sTN38RUF6CxDzfRCyGQkrLHUh3Dpf5Gra4g\nXTpxIghHy15lT22Es2e7BZUXosbmp/M44k8z8VcLOEBSd+KZAjK1q/i6sjlF6Qd7\n6YygZajUT2ianpVcr6z5yCJ9Zg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "babyrecacc@babyrec.iam.gserviceaccount.com",
+  "client_id": "114890815694505323156",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/babyrecacc%40babyrec.iam.gserviceaccount.com"
+}
